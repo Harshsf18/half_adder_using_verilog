@@ -1,4 +1,4 @@
-# half_adder_using_verilog
+# Half_Adder_Using_Verilog
 Half Adder is a combinational logic circuit which is designed by connecting one EX-OR gate and one AND gate. The half adder circuit has two inputs: A and B, which add two input digits and generates a carry and a sum.
 ## Truth Table
 ![image](https://user-images.githubusercontent.com/82794748/115246333-6ab41680-a143-11eb-99e9-fc7ce13fa6be.png)
